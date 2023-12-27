@@ -1,16 +1,5 @@
 import Home from "./pages/Home";
-import Login from "./pages/Login";
-import Register from "./pages/Register";
-import LayoutBase from "./layouts/LayoutBase";
 
-import HiroitoSanchez from "./pages/alumnos/HiroitoSanchez"
-import Urquizo from "./pages/alumnos/Urquizo";
-
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-
-import ClaudiaAbril from "./pages/alumnos/ClaudiaAbril";
-import FranklinPeña from "./pages/alumnos/FranklinPeña";
-import Character from "./pages/Character";
 
 export default function App() {
   return (
